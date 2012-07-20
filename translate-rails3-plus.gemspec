@@ -47,7 +47,8 @@ Gem::Specification.new do |s|
     "spec/keys_spec.rb",
     "spec/log_spec.rb",
     "spec/spec_helper.rb",
-    "spec/storage_spec.rb"
+    "spec/storage_spec.rb",
+    "translate-rails3-plus.gemspec"
   ]
   s.homepage = "https://github.com/gsmedley/translate"
   s.require_paths = ["lib"]
